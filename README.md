@@ -1,1 +1,0 @@
-# vueproject-for-financial-info
