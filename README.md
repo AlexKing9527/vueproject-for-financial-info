@@ -41,7 +41,5 @@
 |   |——README.md
 ```
 
-### 备注
->由于要上线打包，所以webpack devserver 端口和 express 端口一致了，想看结果的改下express端口即可
+### 展示
 
->The port for webpack devserver is the same to express port, so it won't work when you just open the devserver,change the express port and open them at the same time
