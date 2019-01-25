@@ -6,6 +6,10 @@
 * 股票外汇等行情页
 * 客户信息页
 
+![Image](https://github.com/AlexKing9527/document/blob/master/QQ%E6%88%AA%E5%9B%BE20190125140908.png)
+![Image](https://github.com/AlexKing9527/document/blob/master/QQ%E6%88%AA%E5%9B%BE20190125140956.png)
+![Image](https://github.com/AlexKing9527/document/blob/master/QQ%E6%88%AA%E5%9B%BE20190125141010.png)
+
 ### 目录结构
 
 <!--more-->
@@ -41,5 +45,4 @@
 |   |——README.md
 ```
 
-### 展示
 
