@@ -9,6 +9,7 @@
 ![Image](https://github.com/AlexKing9527/document/blob/master/QQ%E6%88%AA%E5%9B%BE20190125140908.png)
 ![Image](https://github.com/AlexKing9527/document/blob/master/QQ%E6%88%AA%E5%9B%BE20190125140956.png)
 ![Image](https://github.com/AlexKing9527/document/blob/master/QQ%E6%88%AA%E5%9B%BE20190125141010.png)
+![Image](https://github.com/AlexKing9527/document/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190125144543.jpg)
 
 ### 目录结构
 
